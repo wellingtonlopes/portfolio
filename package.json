@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://wellingtonlopes.github.io/webportfolio",
+  "homepage": "https://wellingtonlopes.github.io/portfolio",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
